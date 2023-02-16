@@ -5,7 +5,7 @@
 
 <div align="center">  
   
-<a href="https://instagram.com/magnoefren" target="_blank">
+<a href="https://instagram.com/m.byzblt" target="_blank">
 <img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
 <a href="https://www.youtube.com/channel/UCIPh1wTE3Lph6cTeXvuwJdg" target="_blank">
