@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="left"> </p>
 
-<!--
-**mustafabeyazbulut/mustafabeyazbulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Magno+Efren.+Welcome!)](https://www.youtube.com/c/MagnoEfren/videos)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">  
+  
+<a href="https://instagram.com/magnoefren" target="_blank">
+<img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  
+<a href="https://www.youtube.com/channel/UCIPh1wTE3Lph6cTeXvuwJdg" target="_blank">
+  
+<img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">   
+<a href="https://twitter.com/_mbyzblt" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-8FC3F4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
+
+<a href="https://www.linkedin.com/in/mustafabeyazbulut/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
+
+ </a>  
+  
+
