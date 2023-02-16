@@ -1,6 +1,6 @@
 <p align="left"> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi👋+I'm+Mustafa+Beyazbulut.+Welcome!+)](https://www.youtube.com/@mustafabeyazbulut/videos)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi👋+I'm+Mustafa+Beyazbulut.Welcome!+)](https://www.youtube.com/@mustafabeyazbulut/videos)
 
 
 <div align="center">  
