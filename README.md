@@ -22,4 +22,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
  </a>  
   
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mustafabeyazbulut&&style=flat-square" align="center" />
+</div>
