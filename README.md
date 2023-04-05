@@ -23,5 +23,5 @@
  </a>  
   
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mustafabeyazbulut&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=mustafabeyazbulut&&style=flat-square&color=red" align="center" />
 </div>
