@@ -33,14 +33,20 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mustafabeyazbulut&show_icons=true&theme=radical&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabeyazbulut&layout=compact&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mustafabeyazbulut&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabeyazbulut&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mustafabeyazbulut&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=mustafabeyazbulut&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafabeyazbulut&theme=redical&hide_border=true&area=true" />
 
 </div>
 
