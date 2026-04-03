@@ -33,6 +33,13 @@
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats-theta-five-29.vercel.app/api?username=mustafabeyazbulut&show_icons=true&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats-theta-five-29.vercel.app/api/top-langs/?username=mustafabeyazbulut&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=mustafabeyazbulut&theme=radical&hide_border=true" />
 
 </div>
