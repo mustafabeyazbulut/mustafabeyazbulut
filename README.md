@@ -33,20 +33,19 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-five-xi-65.vercel.app/api?username=mustafabeyazbulut&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats-five-xi-65.vercel.app/api/top-langs/?username=mustafabeyazbulut&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=mustafabeyazbulut&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mustafabeyazbulut&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+<img src="https://streak-stats.demolab.com?user=mustafabeyazbulut&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafabeyazbulut&theme=redical&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafabeyazbulut&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
